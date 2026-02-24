@@ -1,7 +1,7 @@
 Name: Lakshmish M Devadiga
 
 Questions Attempted:
-I have attempted all twenty questions in the assignment.
+I have attempted all 20 questions in the assignment.
 
 Special Instructions:
 - All programs have been written using basic concepts of Python.
