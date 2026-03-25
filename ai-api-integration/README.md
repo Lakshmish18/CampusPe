@@ -82,9 +82,6 @@ Screenshots
   - ![Compare models 2](screenshots/COMAPRED%20MODELS%20-2.png)
   - Best response shown here
     - ![Best response](screenshots/BEST%20RESPONSED%20MODEL.png)
-- Hugging Face inference providers screenshots (to show provider configuration)
-  - ![HF provider 1](screenshots/hf_provider_1.png)
-  - ![HF provider 2](screenshots/hf_provider_2.png)
 
 Comparing all the models (based on the screenshots)
 - Fastest API
